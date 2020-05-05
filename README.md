@@ -1,9 +1,34 @@
-# SideViewAction
+# アプリ名
+SideViewAction
+
+# 概要
 2Dの横スクロール型のゲームです。
 ファミコンのスーパーマリオブラザーズ的なものです。
 ←↑↓→でキャラクターを操作することができます
 spaceキーでジャンプができます。
 
-<img width="600" height="200" alt="スクリーンショット 2020-05-05 22 50 18" src="https://user-images.githubusercontent.com/61728213/81074172-9682c000-8f23-11ea-8b36-ac02ab21379e.png">
-<img width="300" height="300" alt="スクリーンショット 2020-05-05 22 50 26" src="https://user-images.githubusercontent.com/61728213/81074182-98e51a00-8f23-11ea-98c8-35da62824150.png">
- https://saksakp0129.github.io/sample/
+# 制作背景
+ゲームを実際に作成してみたいと思い
+
+# DEMO
+
+下記画像がステージ全体です
+<img width="600" height="300" alt="スクリーンショット 2020-05-05 22 50 26" src="https://user-images.githubusercontent.com/61728213/81074182-98e51a00-8f23-11ea-98c8-35da62824150.png">
+ 
+ 
+ 画像が実際のプレイヤー操作時の画面です
+ <img width="600" height="200" alt="スクリーンショット 2020-05-05 22 50 18" src="https://user-images.githubusercontent.com/61728213/81074172-9682c000-8f23-11ea-8b36-ac02ab21379e.png">
+
+
+ゲーム中のBGM,SE（プレイヤージャンプ時、敵を踏んだ際、ゴール時）
+当たり判定の実装、ゲームオーバークリアの実装（どちらかの場合は2秒後にリスタートされます）
+アイテム取得時にスコアの変更
+
+# URL
+下記URLにて公開しています。
+BGMが大きい可能性がありますので、お手元の音量に注意して開始してください。
+https://saksakp0129.github.io/sample/
+
+# 使用技術（開発）
+unity2019.3.9.f
+C#
