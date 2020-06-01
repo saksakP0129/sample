@@ -13,6 +13,7 @@ spaceキーでジャンプができます。
 # DEMO
 
 下記画像がステージ全体です
+
 <img width="600" height="300" alt="スクリーンショット 2020-05-05 22 50 26" src="https://user-images.githubusercontent.com/61728213/81074182-98e51a00-8f23-11ea-98c8-35da62824150.png">
  
  
